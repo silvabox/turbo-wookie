@@ -1,3 +1,3 @@
 class Hello
-	VAL = "Hello Pietrov2"
+	VAL = "Hello Pietrov3"
 end
