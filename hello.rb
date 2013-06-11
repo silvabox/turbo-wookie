@@ -25,4 +25,8 @@ printf(handle, "%s got a %s and\n%s %s around the block.\n",
         prop_noun, noun, verb, adv)
 handle.close
 
+end
+
+puts "Hello!"
+end
 
